@@ -1,2 +1,2 @@
-# Qu-n-l-nh-s-ch
+# Library System Management
 Bài tập lớn_Quản lý nhà sách
